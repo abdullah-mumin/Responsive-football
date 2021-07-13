@@ -1,0 +1,54 @@
+/* Font import */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+/* Header part style */
+header{
+    background-color: #0000FF;
+    height: 600px;
+}
+.copa-top-section{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-top: 100px;
+}
+/* .copa-america-info{
+    padding-top: 100px;
+    padding-left: 100px;
+} */
+.copa-america-name p{
+    width: 485px;
+    height: 230px;
+    font-size: 64px;
+    font-weight: 700;
+    color: #FFFFFF;
+    margin-top: 0px;
+}
+.live{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 168px;
+    height: 44px;
+    background: #E02C6D;
+}
+.live p{
+    color: #ffffff;
+    font-size: 16px;
+    width: 88px;
+    height: 24px;
+}
+.fa-arrow-right{
+    color: #ffffff;
+    margin-left: 8px;
+}
+.copa-america-banner img{
+    width: 556px;
+    height: 438px;
+}
+/* common part */
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+    background: lightgray;
+}
