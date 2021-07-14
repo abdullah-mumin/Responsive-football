@@ -129,6 +129,7 @@ footer{
     }
     .copa-top-section{
         grid-template-columns: repeat(1, 1fr);
+        flex-direction: column;
     }
 
     .players{
